@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DopamineWar</string>
+    <string name="accessibility_service_description">Blocks selected distracting apps until access is approved.</string>
 </resources>
